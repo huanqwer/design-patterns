@@ -3,3 +3,7 @@ out
 push.cmd
 pull.cmd
 *.iml
+
+# AI related files
+AGENTS.md
+.windsurf/

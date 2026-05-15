@@ -1,5 +1,7 @@
 # 33种设计模式(Java代码实现)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 快速开始
 
 克隆项目到本地
@@ -9,6 +11,10 @@ git clone https://github.com/huanqwer/design-patterns.git
 ```
 
 然后用IDEA打开项目即可(我是用IDEA写的,Eclipse可能需要手动建个项目然后把文件粘贴进去)
+
+## 许可证
+
+本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 项目协助
 
