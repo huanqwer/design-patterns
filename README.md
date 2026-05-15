@@ -12,6 +12,49 @@ git clone https://github.com/huanqwer/design-patterns.git
 
 然后用IDEA打开项目即可(我是用IDEA写的,Eclipse可能需要手动建个项目然后把文件粘贴进去)
 
+## 项目结构
+
+```
+design-patterns/
+├── AbstractFactoryPattern/      # 抽象工厂模式
+├── AdapterPattern/              # 适配器模式
+├── BridgePattern/               # 桥接模式
+├── BuilderPattern/              # 建造者模式
+├── BusinessDelegatePattern/     # 业务代表模式
+├── ChainOfResponsibilityPattern/# 责任链模式
+├── CommandPattern/              # 命令模式
+├── CompositeEntityPattern/      # 组合实体模式
+├── CompositePattern/            # 组合模式
+├── DAOPattern/                  # 数据访问对象模式
+├── DecoratorPattern/            # 装饰器模式
+├── FacadePattern/               # 外观模式
+├── FactoryPattern/              # 工厂模式
+├── FilterPattern/               # 过滤器模式
+├── FlyweightPattern/            # 享元模式
+├── FrontControllerPattern/      # 前端控制器模式
+├── InterceptingFilterPattern/   # 拦截过滤器模式
+├── InterpreterPattern/          # 解释器模式
+├── IteratorPattern/             # 迭代器模式
+├── MediatorPattern/             # 中介者模式
+├── MementoPattern/              # 备忘录模式
+├── MVCPattern/                  # MVC 模式
+├── NullObjectPattern/           # 空对象模式
+├── ObserverPattern/             # 观察者模式
+├── PrototypePattern/            # 原型模式
+├── ProxyPattern/                # 代理模式
+├── ServiceLocatorPattern/       # 服务定位器模式
+├── SigletonPattern/             # 单例模式
+├── SimpleFactoryPattern/        # 简单工厂模式
+├── StatePattern/                # 状态模式
+├── StrategyPattern/             # 策略模式
+├── TemplatePattern/             # 模板模式
+├── TransferObjectPattern/       # 传输对象模式
+├── VisitorPattern/              # 访问者模式
+├── CONTRIBUTING.md              # 贡献指南
+├── LICENSE                      # MIT 许可证
+└── README.md                    # 项目说明
+```
+
 ## 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
